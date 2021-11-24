@@ -1,0 +1,8 @@
+{
+  "name": "nomad-movieql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/quackcoder/nomadcoder-movieql",
+  "author": "Deok Chan Jung",
+  "license": "MIT"
+}
